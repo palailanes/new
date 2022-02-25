@@ -1,0 +1,25 @@
+@@ -1445,27 +1445,26 @@
+    -   [C++ (клип)](https://www.youtube.com/watch?v=twodd1KFfGk)
+    -   [Да разберем оптимизирането на компилатори (C++) (клип)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
+-   ### Emacs and vi(m)
+    -   Запознайте се с някой unix-базиран кодов редактор
+    -   vi(m):
+        -   [Редактиране с vim 01 - Инсталация, настройване и различните режими (клип)](https://www.youtube.com/watch?v=5givLEMcINQ&index=1&list=PL13bz4SHGmRxlZVmWQ9DvXo1fEg4UdGkr)
+        -   [VIM приключения](http://vim-adventures.com/)
+        -   4 клипа:
+            -   [The vi/vim editor - Урок 1](https://www.youtube.com/watch?v=SI8TeVMX8pk)
+            -   [The vi/vim editor - Урок 2](https://www.youtube.com/watch?v=F3OO7ZIOaJE)
+            -   [The vi/vim editor - Урок 3](https://www.youtube.com/watch?v=ZYEccA_nMaI)
+            -   [The vi/vim editor - Урок 4](https://www.youtube.com/watch?v=1lYD5gwgZIA)
+        -   [Използване на Vi вместо Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Using_Vi_instead_of_Emacs)
+    -   emacs:
+        -   [Основите на Emacs (клип)](https://www.youtube.com/watch?v=hbmV1bnQ-i0)
+        -   3 клипа:
+            -   [Emacs ръководство (За начинаещи) -Част 1- файлови команди, cut/copy/paste, cursor команди](https://www.youtube.com/watch?v=ujODL7MD04Q)
+            -   [Emacs ръководство (За начинаещи) -Част 2- Управление на буфера, търсене, M-x grep и rgrep режими](https://www.youtube.com/watch?v=XWpsRupJ4II)
+            -   [Emacs въководство (За начинаещи) -Част 3- Изрази, Твърдения, ~/.emacs файлове и пакети](https://www.youtube.com/watch?v=paSgzPso-yc)
+        -   [Зъл режим(Evil mode): Или как се научих да спра да се тревожа и да заобичам Emacs (клип)](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
+        -   [Писане на C програми с Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs)
+        -   [(по желание) Org режима в подробности: Управление на структурата (клип)](https://www.youtube.com/watch?v=nsGYet02bEk)
+	- [Emacs-Наръчник за начинаещи (видео от David Wilson)](https://www.youtube.com/watch?v=48JlgiBpw_I&t=0s)
+	- [Emacs-Наръчник за начинаещи (записки на David Wilson)](https://systemcrafters.net/emacs-essentials/absolute-beginners-guide-to-emacs/)
